@@ -28,8 +28,7 @@ const Services = () => {
                 </i>
                 <h4>Fast & Easy Booking</h4>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                Streamlined cab booking platform offering quick reservations with just a few clicks for hassle-free travel experiences.
                 </p>
               </div>
             </div>
@@ -41,8 +40,7 @@ const Services = () => {
                 </i>
                 <h4>Any Pickup Location</h4>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                Easily input your pick-up location for seamless cab reservations, ensuring convenience from wherever you are.
                 </p>
               </div>
             </div>
@@ -54,8 +52,7 @@ const Services = () => {
                 </i>
                 <h4>No Booking Charges</h4>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                Enjoy zero booking fees for every reservation, making your cab booking experience both economical and straightforward.
                 </p>
               </div>
             </div>
@@ -67,8 +64,7 @@ const Services = () => {
                 </i>
                 <h4>Free Maintenance</h4>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                Experience worry-free rides with complimentary maintenance services, ensuring a smooth and reliable journey every time.
                 </p>
               </div>
             </div>
@@ -80,8 +76,7 @@ const Services = () => {
                 </i>
                 <h4>Fully Insured</h4>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                Travel with peace of mind knowing every ride is fully insured, prioritizing your safety and security throughout your journey.
                 </p>
               </div>
             </div>
@@ -93,8 +88,7 @@ const Services = () => {
                 </i>
                 <h4>24/7 Support</h4>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                Get round-the-clock assistance for any inquiries or concerns, ensuring uninterrupted support throughout your travel experience.
                 </p>
               </div>
             </div>

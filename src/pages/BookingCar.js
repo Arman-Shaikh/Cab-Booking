@@ -41,7 +41,7 @@ function BookingCar() {
   useEffect(() => {
     setTotalAmount(totalMins * Math.ceil(car.rentPerHour / 60));
     if (driver) {
-      setTotalAmount(totalAmount + 5 * totalMins);
+      setTotalAmount(totalAmount + 800);
     }
   }, [driver, totalMins]);
   function selectTimeSlots(values) {

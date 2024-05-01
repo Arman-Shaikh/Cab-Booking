@@ -67,7 +67,7 @@ function DefaultLayout(props) {
                     cursor: "pointer",
                   }}
                 >
-                  Sandhu Cars
+                  Snap Ride
                 </h1>
               </div>
             </div>

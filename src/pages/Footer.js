@@ -23,7 +23,7 @@ const Footer = () => {
                     <PushpinOutlined className="f-icons" />
                     <h4>Find us</h4>
                     <span>
-                      Shop Number 12, Abrar Center, wahdat road Lahore
+                      Shop Number 12, Abrar Center, Shailesh Nagar Mumbra
                     </span>
                   </div>
                 </div>
@@ -33,7 +33,7 @@ const Footer = () => {
                 <div className="single-cta">
                   <div className="cta-text">
                     <h4>Call us</h4>
-                    <span>+923310145083</span>
+                    <span>+91 1234567890</span>
                   </div>
                 </div>
               </div>
@@ -42,7 +42,7 @@ const Footer = () => {
                 <div className="single-cta">
                   <div className="cta-text">
                     <h4>Mail us</h4>
-                    <span>sandhu@gmail.com</span>
+                    <span>armanshaikh1801@gmail.com</span>
                   </div>
                 </div>
               </div>
@@ -61,15 +61,13 @@ const Footer = () => {
                         alt="logo"
                       />
                       <h3 style={{ color: "#00ffffdf", fontFamily: "Barrio" }}>
-                        Sandhu Cars
+                        Snap Ride
                       </h3>
                     </a>
                   </div>
                   <div className="footer-text">
                     <p>
-                      Lorem ipsum dolor sit amet, consec tetur adipisicing elit,
-                      sed do eiusmod tempor incididuntut consec tetur
-                      adipisicing elit,Lorem ipsum dolor sit amet.
+                    Snap Ride offers prompt, reliable transportation with a focus on convenience and safety, redefining your travel experience.
                     </p>
                   </div>
                   <div className="footer-social-icon">
@@ -89,7 +87,7 @@ const Footer = () => {
                       <a href="#">
                         <TwitterSquareFilled className="f-social-icons twitter" />
                       </a>
-                      <a href="#">
+                      <a href="https://www.linkedin.com/in/arman-shaikh0/">
                         <LinkedinFilled className="f-social-icons linkedIn" />
                       </a>
                     </div>
@@ -169,8 +167,8 @@ const Footer = () => {
               <div className="col-xl-6 col-lg-6 text-center text-lg-left">
                 <div className="copyright-text">
                   <p>
-                    Copyright &copy; 2018, All Right Reserved by
-                    <a href="#"> Sandhu</a>
+                  © 2024 Snap Ride. All rights reserved. Terms of Service | Privacy Policy | Contact Us
+                    <a href="#"> Snap ride</a>
                   </p>
                 </div>
               </div>
